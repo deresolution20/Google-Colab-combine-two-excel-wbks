@@ -22,19 +22,22 @@ Project consists of a simple Python script that will combine two excel workbooks
 
 <p align="center">
 Google Colab secure sign on with Google account: <br/>
-<img src="https://imgur.com/ErsdQBB" height="80%" width="80%" alt="Google Colab"/>
+  
+![Colab security](https://user-images.githubusercontent.com/85902399/203385673-7683ede4-c013-4b8b-b898-d5309e0aeb07.png)
 <br />
 <br />
 Google account approval needed:  <br/>
-<img src="https://imgur.com/i7kNjnw" height="80%" width="80%" alt="Google Colab"/>
+  
+![Colab google account approve](https://user-images.githubusercontent.com/85902399/203385857-cb707602-27cb-404c-a4d0-b2a34ce75e12.png)
 <br />
 <br />
 New workbook created and uploaded to Google Drive: <br/>
-<img src="https://i.imgur.com/a/eIVHzt8" height="80%" width="80%" alt="Google Colab"/>
+  
+![Uploaded to drive](https://user-images.githubusercontent.com/85902399/203385984-2703051a-9f9f-4801-a178-bf29eb5bcf03.png)
 <br />
 <br />
 Workbook created in Google Sheets:  <br/>
-<img src="https://i.imgur.com/a/ZdzbjOg" height="80%" width="80%" alt="Google Colab"/>
+![Combined excel wbk in google sheets](https://user-images.githubusercontent.com/85902399/203386177-fbd3a262-2755-4367-9eeb-b3958c93f8b8.png)
 <br />
 <br />
 Google Data Studio Dashboard consumes excel workbook and automatically updates:  <br/>
@@ -42,3 +45,9 @@ Google Data Studio Dashboard consumes excel workbook and automatically updates: 
 <br />
 <br />
 </p>
+
+
+
+
+
+
