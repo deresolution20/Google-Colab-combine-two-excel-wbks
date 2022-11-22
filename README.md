@@ -19,30 +19,24 @@ Project consists of a simple Python script that will combine two excel workbooks
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Google Colab secure sign on with Google account: <br/>
+<img src="https://imgur.com/ErsdQBB" height="80%" width="80%" alt="Google Colab"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Google account approval needed:  <br/>
+<img src="https://imgur.com/i7kNjnw" height="80%" width="80%" alt="Google Colab"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+New workbook created and uploaded to Google Drive: <br/>
+<img src="https://i.imgur.com/a/eIVHzt8" height="80%" width="80%" alt="Google Colab"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Workbook created in Google Sheets:  <br/>
+<img src="https://i.imgur.com/a/ZdzbjOg" height="80%" width="80%" alt="Google Colab"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Google Data Studio Dashboard consumes excel workbook and automatically updates:  <br/>
+![image](https://user-images.githubusercontent.com/85902399/203381002-e4cc95e3-f9e6-4320-aa53-2f93e0ef6581.png)
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
